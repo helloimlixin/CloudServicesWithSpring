@@ -20,3 +20,8 @@ Take a look at the web.xml file in `src/main/webapp/WEB-INF/web.xml` and see how
 Notice how the `EchoServlet` extracts the `msg` parameter from the request
 Notice that the `EchoServlet` explicitly sets a **content-type** for the response so that the client will know how to interpret the data in the body of the response. If you change this content-type, it will affect how your browser displays the result.
 Look at the `EchoServletTest` for an example of how to programmatically send an HTTP `GET` request to the servlet.
+
+# Security Considerations
+
+Although this servlet does not store any client-provided data, it could still be a potential victim of an **Injection Attack**, where
+when the client sends some data that ends up being interpreted as a command and makes the servlet execute something.
