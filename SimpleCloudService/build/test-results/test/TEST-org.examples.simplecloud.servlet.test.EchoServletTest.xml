@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.examples.simplecloud.servlet.test.EchoServletTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-08-15T16:41:42" hostname="Xins-MBP.lan" time="0.063">
+  <properties/>
+  <testcase name="testMsgEchoing" classname="org.examples.simplecloud.servlet.test.EchoServletTest" time="0.063"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
