@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bea295d-33eb-4a35-b2aa-b27c53259a67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="9bea295d-33eb-4a35-b2aa-b27c53259a67" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/2-VideoServlet/.gradle/" />
     <ignored path="$PROJECT_DIR$/2-VideoServlet/build/" />
     <ignored path="$PROJECT_DIR$/2-VideoServlet/out/" />
@@ -41,12 +39,12 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="105">
-                <caret line="5" column="114" lean-forward="true" selection-start-line="5" selection-start-column="114" selection-end-line="5" selection-end-column="114" />
+                <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState>
                   <previewPanelState version="2.8.4">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:162.0000032}}</jsState>
+                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:149.0000032}}</jsState>
                   </previewPanelState>
                 </markdownNavigatorState>
               </second_editor>
@@ -149,9 +147,11 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1680" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="840" />
+    <option name="y" value="23" />
+    <option name="width" value="840" />
+    <option name="height" value="1027" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -169,83 +169,6 @@
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -363,7 +286,7 @@
       <workItem from="1565890760939" duration="6000" />
       <workItem from="1565891908908" duration="1456000" />
       <workItem from="1565939762422" duration="1211000" />
-      <workItem from="1565943706300" duration="4350000" />
+      <workItem from="1565943706300" duration="4528000" />
     </task>
     <task id="LOCAL-00001" summary="Edited README.md">
       <created>1565889332559</created>
@@ -415,13 +338,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8507000" />
+    <option name="totallyTimeSpent" value="8685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2967033" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2967033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Designer" order="3" />
@@ -438,7 +360,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4957265" visible="true" weight="0.32870865" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4957265" visible="true" weight="0.32870865" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50427353" side_tool="true" visible="true" weight="0.32870865" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Build" order="13" weight="0.35538954" />
@@ -611,12 +533,12 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
-            <caret line="5" column="114" lean-forward="true" selection-start-line="5" selection-start-column="114" selection-end-line="5" selection-end-column="114" />
+            <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState>
               <previewPanelState version="2.8.4">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:162.0000032}}</jsState>
+                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:149.0000032}}</jsState>
               </previewPanelState>
             </markdownNavigatorState>
           </second_editor>
