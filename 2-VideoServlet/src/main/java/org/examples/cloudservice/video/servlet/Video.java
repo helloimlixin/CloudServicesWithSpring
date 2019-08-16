@@ -1,4 +1,4 @@
-package org.examples.cloudservices.video.servlet;
+package org.examples.cloudservice.video.servlet;
 
 /**
  * A simple class to represent a video and its URL for viewing.
