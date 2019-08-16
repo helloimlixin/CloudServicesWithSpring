@@ -41,12 +41,12 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="105">
-                <caret line="5" column="105" selection-start-line="5" selection-start-column="105" selection-end-line="5" selection-end-column="105" />
+                <caret line="5" column="114" lean-forward="true" selection-start-line="5" selection-start-column="114" selection-end-line="5" selection-end-column="114" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState>
                   <previewPanelState version="2.8.4">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:149.0000032}}</jsState>
+                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:162.0000032}}</jsState>
                   </previewPanelState>
                 </markdownNavigatorState>
               </second_editor>
@@ -363,7 +363,7 @@
       <workItem from="1565890760939" duration="6000" />
       <workItem from="1565891908908" duration="1456000" />
       <workItem from="1565939762422" duration="1211000" />
-      <workItem from="1565943706300" duration="4194000" />
+      <workItem from="1565943706300" duration="4350000" />
     </task>
     <task id="LOCAL-00001" summary="Edited README.md">
       <created>1565889332559</created>
@@ -415,7 +415,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8351000" />
+    <option name="totallyTimeSpent" value="8507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -611,12 +611,12 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="105">
-            <caret line="5" column="105" selection-start-line="5" selection-start-column="105" selection-end-line="5" selection-end-column="105" />
+            <caret line="5" column="114" lean-forward="true" selection-start-line="5" selection-start-column="114" selection-end-line="5" selection-end-column="114" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState>
               <previewPanelState version="2.8.4">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:149.0000032}}</jsState>
+                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:162.0000032}}</jsState>
               </previewPanelState>
             </markdownNavigatorState>
           </second_editor>
