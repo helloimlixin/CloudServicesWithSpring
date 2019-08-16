@@ -2,39 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9bea295d-33eb-4a35-b2aa-b27c53259a67" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/VideoServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-VideoServlet/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/4.10.3/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/4.10.3/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/4.10.3/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/4.10.3/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/4.10.3/taskHistory/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/4.10.3/taskHistory/taskHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/4.10.3/taskHistory/taskHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/4.10.3/taskHistory/taskHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.idea/markdown-navigator/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/src/main/java/org.examples.cloudservices.video.servlet/Video.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/Video.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/src/main/java/org.examples.cloudservices.video.servlet/VideoServlet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-SimpleCloudService/src/main/java/org/examples/simplecloud/servlet/EchoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-SimpleCloudService/src/main/java/org/examples/simplecloud/servlet/EchoServlet.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/2-VideoServlet/.gradle/" />
     <ignored path="$PROJECT_DIR$/2-VideoServlet/build/" />
@@ -86,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1-SimpleCloudService/src/main/java/org/examples/simplecloud/servlet/EchoServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+            <state relative-caret-position="290">
+              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -104,11 +73,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/test/java/org/examples/cloudservice/video/servlet/test/VideoServletTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+              <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -134,7 +103,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1-SimpleCloudService/src/test/java/org/examples/simplecloud/servlet/test/EchoServletTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="21">
+            <state relative-caret-position="-141">
               <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
             </state>
           </provider>
@@ -168,6 +137,7 @@
         <option value="$PROJECT_DIR$/2-VideoServlet/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/2-VideoServlet/build.gradle" />
         <option value="$PROJECT_DIR$/2-VideoServlet/src/test/java/org/examples/cloudservice/video/servlet/test/VideoServletTest.java" />
+        <option value="$PROJECT_DIR$/1-SimpleCloudService/src/main/java/org/examples/simplecloud/servlet/EchoServlet.java" />
       </list>
     </option>
   </component>
@@ -195,25 +165,25 @@
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -221,7 +191,7 @@
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -230,31 +200,14 @@
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -262,11 +215,16 @@
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="1-SimpleCloudService" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -384,7 +342,7 @@
       <workItem from="1565890760939" duration="6000" />
       <workItem from="1565891908908" duration="1456000" />
       <workItem from="1565939762422" duration="1211000" />
-      <workItem from="1565943706300" duration="2344000" />
+      <workItem from="1565943706300" duration="3884000" />
     </task>
     <task id="LOCAL-00001" summary="Edited README.md">
       <created>1565889332559</created>
@@ -404,45 +362,44 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VideoServletTest - 2019.08.16 at 15h 27m 07s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VideoServletTest - 2019.08.16 at 15h 34m 18s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VideoServletTest - 2019.08.16 at 15h 35m 48s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EchoServletTest - 2019.08.16 at 16h 25m 04s.xml">
-      <configuration name="EchoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="EchoServletTest - 2019.08.16 at 16h 25m 35s.xml">
-      <configuration name="EchoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VideoServletTest - 2019.08.16 at 16h 32m 49s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VideoServletTest - 2019.08.16 at 16h 37m 43s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VideoServletTest_testVideoAddAndList - 2019.08.16 at 16h 41m 28s.xml">
-      <configuration name="VideoServletTest.testVideoAddAndList" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VideoServletTest_testVideoAddAndList - 2019.08.16 at 16h 51m 42s.xml">
       <configuration name="VideoServletTest.testVideoAddAndList" configurationId="JUnit" />
     </history-entry>
     <history-entry file="VideoServletTest - 2019.08.16 at 16h 51m 57s.xml">
       <configuration name="VideoServletTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 17h 01m 13s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 17h 02m 17s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 17h 02m 26s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 17h 02m 39s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 17h 04m 40s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 17h 08m 31s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 17h 08m 39s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 17h 10m 37s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6501000" />
+    <option name="totallyTimeSpent" value="8041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2967033" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2967033" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Designer" order="3" />
@@ -451,7 +408,7 @@
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4981685" weight="0.32870865" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4957265" weight="0.32870865" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981685" weight="0.3991462" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -459,8 +416,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.497558" visible="true" weight="0.32870865" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502442" side_tool="true" visible="true" weight="0.32870865" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4957265" visible="true" weight="0.32870865" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50427353" side_tool="true" visible="true" weight="0.32870865" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Build" order="13" weight="0.35538954" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
@@ -579,24 +536,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1-SimpleCloudService/src/test/java/org/examples/simplecloud/servlet/test/EchoServletTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1-SimpleCloudService/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="443">
           <caret line="31" column="22" lean-forward="true" selection-start-line="31" selection-start-column="22" selection-end-line="31" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-SimpleCloudService/src/main/java/org/examples/simplecloud/servlet/EchoServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -614,13 +557,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/Video.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-61">
@@ -635,10 +571,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/test/java/org/examples/cloudservice/video/servlet/test/VideoServletTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="33" column="58" selection-start-line="33" selection-start-column="58" selection-end-line="33" selection-end-column="58" />
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-SimpleCloudService/src/test/java/org/examples/simplecloud/servlet/test/EchoServletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-141">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-SimpleCloudService/src/main/java/org/examples/simplecloud/servlet/EchoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
         </state>
       </provider>
     </entry>

@@ -27,8 +27,12 @@ public class EchoServlet extends HttpServlet // Servlets should inherit from Htt
         // For instance: http://foo.bar?msg=abcd
         String msg = req.getParameter("msg");
 
-        // Echo a response back to the client with the msg that was sent.
-        resp.getWriter().write("Echo:" + msg);
+        if (msg.equals("Cherilyn")) {
+            resp.getWriter().write("I love you");
+        } else {
+            // Echo a response back to the client with the msg that was sent.
+            resp.getWriter().write("Echo:" + msg);
+        }
     }
 
     /*
