@@ -56,8 +56,11 @@ public class VideoServiceController implements VideoServiceControllerAPI {
     }
 
     /**
+     * This method receives HTTP `GET` requests to "/video" and returns the current list of videos in
+     * memory. Spring automatically converts the list of videos in JSON because of the `@ResponseBody`
+     * annotation.
      *
-     * @return
+     * @return HTTP response as a list of videos added to the server.
      */
     @RequestMapping(value = VIDEO_SERVICE_CONTROLLER_PATH, method = RequestMethod.GET)
     public @ResponseBody List<Video> getVideoList() {
