@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bea295d-33eb-4a35-b2aa-b27c53259a67" name="Default Changelist" comment="" />
+    <list default="true" id="9bea295d-33eb-4a35-b2aa-b27c53259a67" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/2-VideoServlet/.gradle/" />
     <ignored path="$PROJECT_DIR$/2-VideoServlet/build/" />
     <ignored path="$PROJECT_DIR$/2-VideoServlet/out/" />
@@ -34,7 +37,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
@@ -44,7 +47,7 @@
               <second_editor>
                 <markdownNavigatorState>
                   <previewPanelState version="2.8.4">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:149.0000032}}</jsState>
+                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:3595.50000075}}</jsState>
                   </previewPanelState>
                 </markdownNavigatorState>
               </second_editor>
@@ -55,7 +58,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/Video.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-61">
+            <state relative-caret-position="147">
               <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
@@ -91,17 +94,21 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="296">
+            <state relative-caret-position="735">
               <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+            <state relative-caret-position="147">
+              <caret line="104" column="73" selection-start-line="104" selection-start-column="73" selection-end-line="104" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1168#1175#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,17 +144,17 @@
         <option value="$PROJECT_DIR$/1-SimpleCloudService/README.md" />
         <option value="$PROJECT_DIR$/2-VideoServlet/src/main/java/org.examples.cloudservices.video.servlet/VideoServlet.java" />
         <option value="$PROJECT_DIR$/2-VideoServlet/src/test/java/org/examples/cloudservices/video/servlet/test/VideoServletTest.java" />
-        <option value="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java" />
         <option value="$PROJECT_DIR$/1-SimpleCloudService/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/2-VideoServlet/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/2-VideoServlet/build.gradle" />
         <option value="$PROJECT_DIR$/2-VideoServlet/src/test/java/org/examples/cloudservice/video/servlet/test/VideoServletTest.java" />
         <option value="$PROJECT_DIR$/1-SimpleCloudService/src/main/java/org/examples/simplecloud/servlet/EchoServlet.java" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="x" value="840" />
     <option name="y" value="23" />
     <option name="width" value="840" />
@@ -169,6 +176,82 @@
             <path>
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="servlet" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
+              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
+              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -267,8 +350,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.VideoServletTest" />
-        <item itemvalue="JUnit.VideoServletTest.testVideoAddAndList" />
         <item itemvalue="JUnit.EchoServletTest" />
+        <item itemvalue="JUnit.VideoServletTest.testVideoAddAndList" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +369,7 @@
       <workItem from="1565890760939" duration="6000" />
       <workItem from="1565891908908" duration="1456000" />
       <workItem from="1565939762422" duration="1211000" />
-      <workItem from="1565943706300" duration="4528000" />
+      <workItem from="1565943706300" duration="10286000" />
     </task>
     <task id="LOCAL-00001" summary="Edited README.md">
       <created>1565889332559</created>
@@ -306,21 +389,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VideoServletTest_testVideoAddAndList - 2019.08.16 at 16h 51m 42s.xml">
-      <configuration name="VideoServletTest.testVideoAddAndList" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VideoServletTest - 2019.08.16 at 16h 51m 57s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VideoServletTest - 2019.08.16 at 17h 01m 13s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VideoServletTest - 2019.08.16 at 17h 02m 17s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="VideoServletTest - 2019.08.16 at 17h 02m 26s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VideoServletTest - 2019.08.16 at 17h 02m 39s.xml">
       <configuration name="VideoServletTest" configurationId="JUnit" />
     </history-entry>
@@ -336,23 +404,39 @@
     <history-entry file="VideoServletTest - 2019.08.16 at 17h 10m 37s.xml">
       <configuration name="VideoServletTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 22h 33m 25s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.16 at 22h 34m 28s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="EchoServletTest - 2019.08.16 at 22h 35m 26s.xml">
+      <configuration name="EchoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.17 at 14h 38m 51s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.17 at 14h 39m 06s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8685000" />
+    <option name="totallyTimeSpent" value="14443000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2967033" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.22405373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info id="Web" order="6" side_tool="true" />
+      <window_info id="Web" order="6" sideWeight="0.50087875" side_tool="true" weight="0.45989975" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4957265" weight="0.32870865" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49498746" weight="0.30416223" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4981685" weight="0.3991462" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -360,8 +444,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4957265" visible="true" weight="0.32870865" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50427353" side_tool="true" visible="true" weight="0.32870865" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49373433" visible="true" weight="0.34364995" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50626564" side_tool="true" weight="0.34447005" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Build" order="13" weight="0.35538954" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
@@ -473,45 +557,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="296">
-          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/Video.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-61">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2-VideoServlet/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/test/java/org/examples/cloudservice/video/servlet/test/VideoServletTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1-SimpleCloudService/src/test/java/org/examples/simplecloud/servlet/test/EchoServletTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -538,10 +587,49 @@
           <second_editor>
             <markdownNavigatorState>
               <previewPanelState version="2.8.4">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:149.0000032}}</jsState>
+                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:3595.50000075}}</jsState>
               </previewPanelState>
             </markdownNavigatorState>
           </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/Video.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1-SimpleCloudService/src/test/java/org/examples/simplecloud/servlet/test/EchoServletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="14" column="16" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/test/java/org/examples/cloudservice/video/servlet/test/VideoServletTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="33" column="70" selection-start-line="33" selection-start-column="70" selection-end-line="33" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="35" column="41" selection-start-line="35" selection-start-column="41" selection-end-line="35" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="104" column="73" selection-start-line="104" selection-start-column="73" selection-end-line="104" selection-end-column="73" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1168#1175#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
