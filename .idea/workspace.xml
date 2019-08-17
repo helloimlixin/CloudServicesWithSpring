@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="9bea295d-33eb-4a35-b2aa-b27c53259a67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/README.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/2-VideoServlet/.gradle/" />
     <ignored path="$PROJECT_DIR$/2-VideoServlet/build/" />
@@ -47,7 +49,25 @@
               <second_editor>
                 <markdownNavigatorState>
                   <previewPanelState version="2.8.4">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:3595.50000075}}</jsState>
+                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:148.9999987}}</jsState>
+                  </previewPanelState>
+                </markdownNavigatorState>
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2-VideoServlet/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="404">
+                <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState>
+                  <previewPanelState version="2.8.4">
+                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:388.499974}}</jsState>
                   </previewPanelState>
                 </markdownNavigatorState>
               </second_editor>
@@ -100,10 +120,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
+            <state relative-caret-position="205">
               <caret line="104" column="73" selection-start-line="104" selection-start-column="73" selection-end-line="104" selection-end-column="73" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -139,7 +159,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/2-VideoServlet/README.md" />
         <option value="$PROJECT_DIR$/2-VideoServlet/src/main/java/org.examples.cloudservices.video.servlet/Video.java" />
         <option value="$PROJECT_DIR$/1-SimpleCloudService/README.md" />
         <option value="$PROJECT_DIR$/2-VideoServlet/src/main/java/org.examples.cloudservices.video.servlet/VideoServlet.java" />
@@ -151,6 +170,7 @@
         <option value="$PROJECT_DIR$/1-SimpleCloudService/src/main/java/org/examples/simplecloud/servlet/EchoServlet.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java" />
+        <option value="$PROJECT_DIR$/2-VideoServlet/README.md" />
       </list>
     </option>
   </component>
@@ -181,77 +201,6 @@
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
               <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="servlet" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -369,7 +318,7 @@
       <workItem from="1565890760939" duration="6000" />
       <workItem from="1565891908908" duration="1456000" />
       <workItem from="1565939762422" duration="1211000" />
-      <workItem from="1565943706300" duration="10286000" />
+      <workItem from="1565943706300" duration="10635000" />
     </task>
     <task id="LOCAL-00001" summary="Edited README.md">
       <created>1565889332559</created>
@@ -421,7 +370,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14443000" />
+    <option name="totallyTimeSpent" value="14792000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
@@ -468,7 +417,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="Edited README.md" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2-VideoServlet/README.md" />
     <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/test/java/org/video/servlet/test/VideoServletTest.java" />
     <entry file="file://$PROJECT_DIR$/2-VideoServlet/src1/main/java/org/examples/simplecloud/servlet/EchoServlet.java" />
     <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/test/java/org/examples/cloudservices/video/servlet/test/VideoServletTest.java" />
@@ -578,22 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="105">
-            <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState>
-              <previewPanelState version="2.8.4">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:3595.50000075}}</jsState>
-              </previewPanelState>
-            </markdownNavigatorState>
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/Video.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -624,12 +556,44 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/2-VideoServlet/src/main/java/org/examples/cloudservice/video/servlet/HtmlVideoServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
+        <state relative-caret-position="205">
           <caret line="104" column="73" selection-start-line="104" selection-start-column="73" selection-end-line="104" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1168#1175#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="105">
+            <caret line="5" column="42" selection-start-line="5" selection-start-column="42" selection-end-line="5" selection-end-column="42" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState>
+              <previewPanelState version="2.8.4">
+                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:148.9999987}}</jsState>
+              </previewPanelState>
+            </markdownNavigatorState>
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2-VideoServlet/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="404">
+            <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState>
+              <previewPanelState version="2.8.4">
+                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:388.499974}}</jsState>
+              </previewPanelState>
+            </markdownNavigatorState>
+          </second_editor>
         </state>
       </provider>
     </entry>
