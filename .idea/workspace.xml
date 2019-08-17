@@ -5,7 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9bea295d-33eb-4a35-b2aa-b27c53259a67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/2-VideoServlet/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/fileContent/fileContent.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/build/classes/java/main/org/examples/cloudservice/video/servlet/HtmlVideoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/build/classes/java/main/org/examples/cloudservice/video/servlet/HtmlVideoServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-VideoServlet/out/production/classes/org/examples/cloudservice/video/servlet/HtmlVideoServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/2-VideoServlet/out/production/classes/org/examples/cloudservice/video/servlet/HtmlVideoServlet.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/2-VideoServlet/.gradle/" />
     <ignored path="$PROJECT_DIR$/2-VideoServlet/build/" />
@@ -61,13 +71,13 @@
         <entry file="file://$PROJECT_DIR$/2-VideoServlet/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="404">
+              <first_editor relative-caret-position="462">
                 <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState>
                   <previewPanelState version="2.8.4">
-                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:388.499974}}</jsState>
+                    <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:330}}</jsState>
                   </previewPanelState>
                 </markdownNavigatorState>
               </second_editor>
@@ -197,11 +207,6 @@
               <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
               <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="CloudServicesWithSpring" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CloudServicesWithSpring" type="462c0819:PsiDirectoryNode" />
-              <item name="2-VideoServlet" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -318,7 +323,7 @@
       <workItem from="1565890760939" duration="6000" />
       <workItem from="1565891908908" duration="1456000" />
       <workItem from="1565939762422" duration="1211000" />
-      <workItem from="1565943706300" duration="10635000" />
+      <workItem from="1565943706300" duration="10934000" />
     </task>
     <task id="LOCAL-00001" summary="Edited README.md">
       <created>1565889332559</created>
@@ -338,9 +343,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="VideoServletTest - 2019.08.16 at 17h 02m 39s.xml">
-      <configuration name="VideoServletTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="VideoServletTest - 2019.08.16 at 17h 04m 40s.xml">
       <configuration name="VideoServletTest" configurationId="JUnit" />
     </history-entry>
@@ -368,15 +370,17 @@
     <history-entry file="VideoServletTest - 2019.08.17 at 14h 39m 06s.xml">
       <configuration name="VideoServletTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="VideoServletTest - 2019.08.17 at 14h 55m 38s.xml">
+      <configuration name="VideoServletTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14792000" />
+    <option name="totallyTimeSpent" value="15091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.22405373" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49912128" visible="true" weight="0.22405373" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Learn" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +397,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Educational.CheckDetails" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49373433" visible="true" weight="0.34364995" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49373433" weight="0.34364995" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50626564" side_tool="true" weight="0.34447005" />
       <window_info anchor="bottom" id="Version Control" order="12" />
       <window_info anchor="bottom" id="Build" order="13" weight="0.35538954" />
@@ -584,13 +588,13 @@
     <entry file="file://$PROJECT_DIR$/2-VideoServlet/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="404">
+          <first_editor relative-caret-position="462">
             <caret line="22" column="83" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState>
               <previewPanelState version="2.8.4">
-                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:388.499974}}</jsState>
+                <jsState>{&quot;onLoadScroll&quot;:{&quot;x&quot;:0,&quot;y&quot;:330}}</jsState>
               </previewPanelState>
             </markdownNavigatorState>
           </second_editor>
