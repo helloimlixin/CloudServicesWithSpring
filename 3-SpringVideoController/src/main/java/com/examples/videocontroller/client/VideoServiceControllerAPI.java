@@ -1,9 +1,9 @@
 package com.examples.videocontroller.client;
 
 import com.examples.videocontroller.controller.Video;
-import retrofit2.http.Body;
-import retrofit2.http.GET;
-import retrofit2.http.POST;
+import retrofit.http.Body;
+import retrofit.http.GET;
+import retrofit.http.POST;
 
 import java.util.List;
 
@@ -22,8 +22,8 @@ public interface VideoServiceControllerAPI {
     public static final String VIDEO_SERVICE_CONTROLLER_PATH = "/video";
 
     @GET(VIDEO_SERVICE_CONTROLLER_PATH)
-    public List<Video> getVideoList();
+    List<Video> getVideoList();
 
     @POST(VIDEO_SERVICE_CONTROLLER_PATH)
-    public boolean addVideo(@Body Video v);
+    boolean addVideo(@Body Video v);
 }
